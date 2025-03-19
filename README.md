@@ -16,8 +16,9 @@ Follow these steps to set up and run the Laravel project:
 
 ### ✅ **1. Clone the Repository**
 ```sh
-git clone https://github.com/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/mdomor527461/Product-Catelog
+cd Product-Catelog
+
 ```
 
 ### ✅ **2. Install Dependencies**
