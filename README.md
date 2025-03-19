@@ -1,9 +1,3 @@
-Here is a **professional README** file for your Laravel project. It includes **how to run the project, how it works, and key features**.  
-
----
-
-### 📌 **README.md**
-```md
 # 🛒 Laravel Shopping Cart System
 
 A **Laravel-based Shopping Cart System** that allows users to **add, edit, delete, and manage products** dynamically. The cart functionality is stored in the Laravel session and database for persistence.
