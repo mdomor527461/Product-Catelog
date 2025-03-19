@@ -1,0 +1,17 @@
+.search-input{
+    height: 40px;
+    border : 2px black double;
+    background-color: rgb(33, 136, 39);
+    border-radius: 5px;
+    padding: 10px;
+    width: 400px;
+    color: White;
+    font-size: 18px;
+    text-indent: 20px;
+}
+
+.search-input::placeholder{
+    color: White;
+    font-size: 18px;
+    text-indent: 20px;
+}
